@@ -4,6 +4,6 @@
 
 ## 回路図
 
-<a href="https://github.com/rikumomo0407/rikumomo0407//raw/main/">
-  <img width="100%" src="https://github.com/rikumomo0407/rikumomo0407//raw/main/" />
+<a href="https://github.com/rikumomo0407/rikumomo0407//raw/main/96783A98-980D-40F0-A541-DA6CAD873760.png">
+  <img width="100%" src="https://github.com/rikumomo0407/rikumomo0407//raw/main/96783A98-980D-40F0-A541-DA6CAD873760.png" />
 </a>
