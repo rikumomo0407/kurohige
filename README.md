@@ -23,6 +23,11 @@
 
 *上の素子は自己保持ソレノイドを表している。また、抵抗はすべて240[Ω]。
 
+## プログラム
+
+```
+```
+
 ## 動作原理
 
 <a href="https://github.com/rikumomo0407/kurohige//raw/main/flowchart.png">
