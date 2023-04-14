@@ -21,7 +21,7 @@
   <img width="20%" src="https://github.com/rikumomo0407/kurohige//raw/main/image.png" />
 </a>
 
-*上の素子はソレノイドを表している。また、抵抗はすべて240[Ω]。
+*上の素子は自己保持ソレノイドを表している。また、抵抗はすべて240[Ω]。
 
 ## 動作原理
 
@@ -31,7 +31,7 @@
 
 ## 動作結果
 
-・下の写真のようにブレッドボード上に作成したところ、正常に動作した。またソレノイドの到着が間に合わなかったためLEDライトで代用した。LEDライトが光ったときソレノイドが黒ひげ人形を飛ばしたことを示している。
+・下の写真のようにブレッドボード上に作成したところ、正常に動作した。また自己保持ソレノイドの到着が間に合わなかったためLEDライトで代用した。LEDライトが光ったときソレノイドが黒ひげ人形を飛ばしたことを示している。
 
 <a href="https://github.com/rikumomo0407/kurohige//raw/main/picture.png">
   <img width="100%" src="https://github.com/rikumomo0407/kurohige//raw/main/picture.png" />
