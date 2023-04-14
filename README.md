@@ -4,6 +4,24 @@
 
 ## 回路図
 
-<a href="https://github.com/rikumomo0407/kurohige//raw/main/96783A98-980D-40F0-A541-DA6CAD873760.png">
-  <img width="100%" src="https://github.com/rikumomo0407/kurohige//raw/main/96783A98-980D-40F0-A541-DA6CAD873760.png" />
+<a href="https://github.com/rikumomo0407/kurohige//raw/main/circuit.png">
+  <img width="100%" src="https://github.com/rikumomo0407/kurohige//raw/main/circuit.png" />
+</a>
+
+<a href="https://github.com/rikumomo0407/kurohige//raw/main/circuit.png">
+  <img width="100%" src="https://github.com/rikumomo0407/kurohige//raw/main/image.png" />
+</a>
+
+*上の素子はソレノイドを表しています。
+
+## 動作原理
+
+<a href="https://github.com/rikumomo0407/kurohige//raw/main/flowchart.png">
+  <img width="100%" src="https://github.com/rikumomo0407/kurohige//raw/main/flowchart.png" />
+</a>
+
+## 動作結果
+
+<a href="https://github.com/rikumomo0407/kurohige//raw/main/picture.png">
+  <img width="100%" src="https://github.com/rikumomo0407/kurohige//raw/main/picture.png" />
 </a>
